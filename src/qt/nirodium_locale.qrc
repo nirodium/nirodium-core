@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/nirodium_bg.qm</file>
+        <file alias="ca">locale/nirodium_ca.qm</file>
+        <file alias="cs">locale/nirodium_cs.qm</file>
+        <file alias="da">locale/nirodium_da.qm</file>
+        <file alias="de">locale/nirodium_de.qm</file>
+        <file alias="en">locale/nirodium_en.qm</file>
+        <file alias="en_GB">locale/nirodium_en_GB.qm</file>
+        <file alias="en_US">locale/nirodium_en_US.qm</file>
+        <file alias="eo">locale/nirodium_eo.qm</file>
+        <file alias="es">locale/nirodium_es.qm</file>
+        <file alias="es_ES">locale/nirodium_es_ES.qm</file>
+        <file alias="fi">locale/nirodium_fi.qm</file>
+        <file alias="fr_FR">locale/nirodium_fr_FR.qm</file>
+        <file alias="hi_IN">locale/nirodium_hi_IN.qm</file>
+        <file alias="hr">locale/nirodium_hr.qm</file>
+        <file alias="hr_HR">locale/nirodium_hr_HR.qm</file>
+        <file alias="it">locale/nirodium_it.qm</file>
+        <file alias="ja">locale/nirodium_ja.qm</file>
+        <file alias="ko_KR">locale/nirodium_ko_KR.qm</file>
+        <file alias="lt_LT">locale/nirodium_lt_LT.qm</file>
+        <file alias="nl">locale/nirodium_nl.qm</file>
+        <file alias="pl">locale/nirodium_pl.qm</file>
+        <file alias="pt">locale/nirodium_pt.qm</file>
+        <file alias="pt_BR">locale/nirodium_pt_BR.qm</file>
+        <file alias="ro_RO">locale/nirodium_ro_RO.qm</file>
+        <file alias="ru">locale/nirodium_ru.qm</file>
+        <file alias="sk">locale/nirodium_sk.qm</file>
+        <file alias="sv">locale/nirodium_sv.qm</file>
+        <file alias="tr">locale/nirodium_tr.qm</file>
+        <file alias="uk">locale/nirodium_uk.qm</file>
+        <file alias="vi">locale/nirodium_vi.qm</file>
+        <file alias="zh_CN">locale/nirodium_zh_CN.qm</file>
+        <file alias="zh_TW">locale/nirodium_zh_TW.qm</file>
+    </qresource>
+</RCC>
